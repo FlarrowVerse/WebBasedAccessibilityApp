@@ -1,0 +1,1 @@
+document.getElementsByClassName("gb_g").innerHTML = 'EMAIL'
